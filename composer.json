@@ -1,5 +1,5 @@
 {
-    "name": "symfony/http-client",
+    "name": "devster/http-client",
     "type": "library",
     "description": "Symfony HttpClient component",
     "homepage": "https://symfony.com",
